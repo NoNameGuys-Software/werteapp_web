@@ -1,0 +1,286 @@
+{
+  "groups": [
+    {
+      "id": 0,
+      "items": [
+        "Abenteuer",
+        "Begeisterung",
+        "Freude",
+        "Genuss",
+        "Humor",
+        "Leidenschaft",
+        "Lebendigkeit",
+        "Leichtigkeit",
+        "Spaß",
+        "Sinnlichkeit"
+      ]
+    },
+    {
+      "id": 1,
+      "items": [
+        "Optimismus",
+        "Zuversicht"
+      ]
+    },
+    {
+      "id": 2,
+      "items": [
+        "Achtsamkeit",
+        "Besonnenheit",
+        "Bewusstheit",
+        "Sorgfalt"
+      ]
+    },
+    {
+      "id": 3,
+      "items": [
+        "Agilität",
+        "Aktivität",
+        "Flexibilität",
+        "Gesundheit",
+        "Langlebigkeit",
+        "Lebendigkeit"
+      ]
+    },
+    {
+      "id": 4,
+      "items": [
+        "Akzeptanz",
+        "Aufgeschlossenheit",
+        "Geduld",
+        "Offenheit",
+        "Neutralität",
+        "Toleranz",
+        "Vielfalt",
+        "Würde"
+      ]
+    },
+    {
+      "id": 5,
+      "items": [
+        "Altruismus",
+        "Empathie",
+        "Freundlichkeit",
+        "Fürsorglichkeit",
+        "Gemütlichkeit",
+        "Großzügigkeit",
+        "Güte",
+        "Herzlichkeit",
+        "Hilfsbereitschaft",
+        "Liebenswürdigkeit",
+        "Mitgefühl",
+        "Nächstenliebe",
+        "Respekt",
+        "Rücksichtnahme",
+        "Sanftmut",
+        "Sensibilität",
+        "Teilen",
+        "Verbundenheit"
+      ]
+    },
+    {
+      "id": 6,
+      "items": [
+        "Innovation",
+        "Inspiration",
+        "Kreativität",
+        "Lässigkeit",
+        "Modernität",
+        "Phantasie",
+        "Visionär",
+        "Unkonventionell"
+      ]
+    },
+    {
+      "id": 7,
+      "items": [
+        "Anerkennung",
+        "Ansehen",
+        "Bedeutsamkeit",
+        "Einfluss",
+        "Langlebigkeit",
+        "Kontrolle",
+        "Reichtum"
+      ]
+    },
+    {
+      "id": 8,
+      "items": [
+        "Anmut",
+        "Ästhetik",
+        "Charisma",
+        "Modernität"
+      ]
+    },
+    {
+      "id": 9,
+      "items": [
+        "Anstand",
+        "Ehrlichkeit",
+        "Glaubwürdigkeit",
+        "Integrität",
+        "Seriösität",
+        "Unbestechlichkeit"
+      ]
+    },
+    {
+      "id": 10,
+      "items": [
+        "Ausgeglichenheit",
+        "Ausgewogenheit",
+        "Besonnenheit",
+        "Gelassenheit",
+        "Seelenfrieden"
+      ]
+    },
+    {
+      "id": 11,
+      "items": [
+        "Authentizität",
+        "Ehrlichkeit",
+        "Transparenz",
+        "Klarheit"
+      ]
+    },
+    {
+      "id": 12,
+      "items": [
+        "Diskretion",
+        "Freundschaft",
+        "Hingabe",
+        "Ko-Kreation",
+        "Kooperation",
+        "Liebenswürdigkeit",
+        "Loyalität",
+        "Treue",
+        "Vertrauen",
+        "Verantwortung",
+        "Zuverlässigkeit"
+      ]
+    },
+    {
+      "id": 13,
+      "items": [
+        "Aktivität",
+        "Beharrlichkeit",
+        "Disziplin",
+        "Durchsetzungsvermögen",
+        "Effektivität",
+        "Effizienz",
+        "Fleiß",
+        "Leistung",
+        "Pflichtgefühl",
+        "Selbstdisziplin",
+        "Standfestigkeit",
+        "Tüchtigkeit",
+        "Verantwortung",
+        "Zielstrebigkeit"
+      ]
+    },
+    {
+      "id": 14,
+      "items": [
+        "Klarheit",
+        "Ordnungssinn",
+        "Perfektion",
+        "Präzision",
+        "Pünktlichkeit"
+      ]
+    },
+    {
+      "id": 15,
+      "items": [
+        "Genügsamkeit",
+        "Dankbarkeit",
+        "Demut",
+        "Sparsamkeit"
+      ]
+    },
+    {
+      "id": 16,
+      "items": [
+        "Klarheit",
+        "Pragmatismus",
+        "Realismus",
+        "Weitsicht"
+      ]
+    },
+    {
+      "id": 17,
+      "items": [
+        "Freiheit",
+        "Potentialentfaltung",
+        "Selbstbestimmtheit",
+        "Selbstvertrauen",
+        "Selbstverwirklichung",
+        "Unabhängigkeit",
+        "(persönliches) Wachstum"
+      ]
+    },
+    {
+      "id": 18,
+      "items": [
+        "Frieden",
+        "Harmonie",
+        "Vergebung"
+      ]
+    },
+    {
+      "id": 19,
+      "items": [
+        "Hingabe",
+        "Idealismus",
+        "Glaube",
+        "Nachhaltigkeit",
+        "Sinnhaftigkeit"
+      ]
+    },
+    {
+      "id": 20,
+      "items": [
+        "Ausgewogenheit",
+        "Fairness",
+        "Kooperation",
+        "Gerechtigkeit",
+        "Solidarität",
+        "Teamgeist",
+        "Teilen"
+      ]
+    },
+    {
+      "id": 21,
+      "items": [
+        "Inspiration",
+        "Motivation",
+        "Intuition"
+      ]
+    },
+    {
+      "id": 22,
+      "items": [
+        "Erkenntnis",
+        "Intelligenz",
+        "Interesse",
+        "Klarheit",
+        "Klugheit",
+        "Weisheit",
+        "Weitsicht",
+        "Wissen"
+      ]
+    },
+    {
+      "id": 23,
+      "items": [
+        "Konservativismus",
+        "Tradition"
+      ]
+    },
+    {
+      "id": 24,
+      "items": [
+        "Mut",
+        "Tapferkeit"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+Deine 10 wichtigsten Werte auswählen\n
+
+Du bekommst nun eine Liste aller Werte angezeigt, die Dir wichtig sind. Diese kannst du auch später noch einsehen. Im nächsten Schritt geht es nun darum, daraus die 10 wichtigsten auszuwählen.\n
+Frag Dich nun bei jedem Wert "Ist mir dieser Wert ganz besonders wichtig? So sehr, dass er unter meine persönlichen Top 10 gehört"?\n
+Wähle die aus, die für Dich definitiv zu den Top 10 gehören. Die App zeigt Dir an, wieviele Du bereits ausgewählt hast. Du kannst die Auswahl auch rückgängig machen. Mache weiter, bis Du die 10 Werte ausgesucht hast, die Dir am Wichtigsten sind.

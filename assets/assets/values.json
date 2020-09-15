@@ -1,0 +1,844 @@
+{
+  "values": [
+    {
+      "id": 0,
+      "name": "Abenteuer",
+      "def": "Unternehmung abseits des geregelten Alltags, verbunden mit dem Verlassen der gewohnten sicheren Umgebung. Oft verbunden mit einigen der folgenden Merkmale: aufregend, spannend, risikoreich, unbekannter Ausgang.",
+      "syn": "Wagnis, Erlebnis, Spannung"
+    },
+    {
+      "id": 1,
+      "name": "Achtsamkeit",
+      "def": "Bedingungslose und vorbehaltlose Aufmerksamkeit in der Gegenwart – ohne zu bewerten, verbunden mit dem Zweck der unmittelbaren Wahrnehmung und/oder eines hohen Bewusstseins.",
+      "syn": ""
+    },
+    {
+      "id": 2,
+      "name": "Agilität",
+      "def": "Fähigkeit, jederzeit und unmittelbar reagieren zu können.",
+      "syn": "Gewandheit, Vitalität, Wendigkeit"
+    },
+    {
+      "id": 3,
+      "name": "Aktivität",
+      "def": "Das aktive Handeln eines Menschen - umfasst sowohl körperliche als auch geistige Tätigkeiten.",
+      "syn": "Tatendrang, Unternehmensgeist, Engagement"
+    },
+    {
+      "id": 4,
+      "name": "Akzeptanz",
+      "def": "Uneingeschränkte Bereitschaft zur Hinnahme eines Sachverhalts, einer Situation oder einer Person.",
+      "syn": "Abgeschwächte Version: Toleranz"
+    },
+    {
+      "id": 5,
+      "name": "Altruismus",
+      "def": "Selbstloses Denken und Handeln für andere.",
+      "syn": "Selbstlosigkeit"
+    },
+    {
+      "id": 6,
+      "name": "Anerkennung",
+      "def": "Für Handlungen oder Ergebnisse Respekt und Wertschätzung erhalten.",
+      "syn": "Lob, Würdigung, Wertschätzung"
+    },
+    {
+      "id": 7,
+      "name": "Anmut",
+      "def": "Harmonie des Schönen und der Attraktivität.",
+      "syn": "Attraktivität, Schönheit, Eleganz, Liebreiz"
+    },
+    {
+      "id": 8,
+      "name": "Ansehen",
+      "def": "Gesellschaftlich angesehen bzw. geachtet sein",
+      "syn": "Reputation, Image, Renommee, guter Ruf"
+    },
+    {
+      "id": 9,
+      "name": "Anstand",
+      "def": "Korrektes Benehmen, das dem entspricht \"wie man sich zu benehmen hat\", also auf gesellschaftlich anerkannten Sitten und Wertvorstellungen beruht ",
+      "syn": "Gutes Benehmen, Sittsamkeit, Anständigkeit"
+    },
+    {
+      "id": 10,
+      "name": "Ästhetik",
+      "def": "Sinn für stilvoll Schönes",
+      "syn": "Geschmack, Schonheitssinn, Stil, Stilgefühl"
+    },
+    {
+      "id": 11,
+      "name": "Aufgeschlossenheit",
+      "def": "Das aufnahmefähige, interessierte und tolerante Offensein für ein Thema, eine Angelegenheit oder eine andere Person oder Gruppe",
+      "syn": ""
+    },
+    {
+      "id": 12,
+      "name": "Ausgeglichenheit",
+      "def": "Ruhiges und entspanntes (ausbalanciertes) Verhalten",
+      "syn": "Balance, Gemütsruhe"
+    },
+    {
+      "id": 13,
+      "name": "Ausgewogenheit",
+      "def": "Das harmonisch aufeinander \"Abgestimmt sein\".",
+      "syn": "Gleichmaß, Harmonie"
+    },
+    {
+      "id": 14,
+      "name": "Authentizität",
+      "def": "Echtes und natürliches Auftreten bzw. Erscheinen (\"ohne Maske\")",
+      "syn": "Echtheit, Unverfälschtheit"
+    },
+    {
+      "id": 15,
+      "name": "Bedeutsamkeit",
+      "def": "Wichtiges Bewirken",
+      "syn": ""
+    },
+    {
+      "id": 16,
+      "name": "Begeisterung",
+      "def": "Außergewöhnlich starkes Interesse in Verbindung mit großer Freude",
+      "syn": "Enthusiasmus, Inbrunst, freudige Erregung"
+    },
+    {
+      "id": 17,
+      "name": "Beharrlichkeit",
+      "def": "Konstantes und konsequentes Handeln; selbstbestimmte Ausdauer und konsequentes Durchhaltevermögen.",
+      "syn": "Zähigkeit, Beharrsamkeit, Hartnäckigkeit"
+    },
+    {
+      "id": 18,
+      "name": "Besonnenheit",
+      "def": "Fähigkeit, in schwierigen Situationen Ruhe zu bewahren, gelassen zu bleiben, sich dem Zustand, in dem man sich befindet, bewusst zu sein sowie eine umfassende und klare Übersicht über die Gegebenheiten zu behalten.",
+      "syn": "Umsicht, Wohlüberlegtheit"
+    },
+    {
+      "id": 19,
+      "name": "Bewusstheit",
+      "def": "das Wahrgenommen- bzw. Geleitet-Sein durch das klare Bewusstsein",
+      "syn": ""
+    },
+    {
+      "id": 20,
+      "name": "Charisma",
+      "def": "Besondere, gewinnende Ausstrahlungskraft",
+      "syn": ""
+    },
+    {
+      "id": 21,
+      "name": "Dankbarkeit",
+      "def": "Zustand, in dem man anerkennt bzw. zu schätzen weiß, dass einem jemand oder etwas ein positives Gefühl geschenkt hat.",
+      "syn": ""
+    },
+    {
+      "id": 22,
+      "name": "Demut",
+      "def": "Die Hingebung zu einer akzeptiert höher stehenden Instanz. In der Einsicht in die Notwendigkeit und im Willen zum Hinnehmen der Gegebenheiten begründete Ergebenheit.",
+      "syn": ""
+    },
+    {
+      "id": 23,
+      "name": "Diskretion",
+      "def": "Die Fähigkeit und Fertigkeit, Vertraulichkeit beispielsweise von Wort und Schrift zu wahren.",
+      "syn": "Verschwiegenheit"
+    },
+    {
+      "id": 24,
+      "name": "Disziplin",
+      "def": "Das Einhalten von besteimmten Vorschriften, vorgeschriebenen Verhaltensregeln o.ä.; das Sicheinfügen in die Ordnung einer Gemeinschaft.",
+      "syn": ""
+    },
+    {
+      "id": 25,
+      "name": "Durchsetzungsvermögen",
+      "def": "Fähigkeit, sich auch gegen Widerstände, insbesondere gegen andere Personen, durchzusetzen.",
+      "syn": ""
+    },
+    {
+      "id": 26,
+      "name": "Effektivität",
+      "def": "Das Maß an Wirksamkeit, hin zu einem sinnvollen, nutzbaren und wertvollen Ergebnis",
+      "syn": "Wirksamkeit"
+    },
+    {
+      "id": 27,
+      "name": "Effizienz",
+      "def": "Das Verhältnis von Ertrag (z.B. Ergebnisse, Leistung) zu Aufwand (Energie, Ressourcen, Zeit, Geld).",
+      "syn": "Wirkungsgrad, Wirtschaftlichkeit"
+    },
+    {
+      "id": 28,
+      "name": "Ehrlichkeit",
+      "def": "Eigenschaft, stets die Wahrheit zu sagen, also in möglichst keiner Form die Unwahrheit von sich zu geben.",
+      "syn": "Aufrichtigkeit, Geradheit"
+    },
+    {
+      "id": 29,
+      "name": "Einfluss",
+      "def": "beeinflussende, bestimmende Wirkung auf jemanden oder etwas",
+      "syn": ""
+    },
+    {
+      "id": 30,
+      "name": "Empathie",
+      "def": "Bereitschaft und Fähigkeit, die Gedanken, Emotionen, Absichten und Persönlichkeitsmerkmale eines anderen zu erkennen und zu verstehen.",
+      "syn": "Einfühlungsvermögen"
+    },
+    {
+      "id": 31,
+      "name": "Erkenntnis",
+      "def": "Prozess und das Ergebnis eines durch Einsicht oder Erfahrung gewonnenen Wissens",
+      "syn": ""
+    },
+    {
+      "id": 32,
+      "name": "Fairness",
+      "def": "Anständiges, ausgewogenes, moralisches sowie gerechtes Handeln (beruhend auf den eigenen Werten)",
+      "syn": "Kollegialität, Sportgeist, Fair Play"
+    },
+    {
+      "id": 33,
+      "name": "Fleiß",
+      "def": "Arbeitsame Zielstrebigkeit. Willentlich strebsames und unermüdliches Arbeiten sowie die beharrliche bzw. intensive Beschäftigung mit einer Sache.",
+      "syn": "Eifer, Eifrigkeit, Emsigkeit, Beflissenheit, Arbeitsamkeit"
+    },
+    {
+      "id": 34,
+      "name": "Flexibilität",
+      "def": "Die Fähigkeit bzw. Eigenschaft, sich entsprechend den Gegebenheiten anzupassen.",
+      "syn": "Anpassungsfähigkeit, Wendigkeit"
+    },
+    {
+      "id": 35,
+      "name": "Freiheit",
+      "def": "Zustand, in dem man ohne jeglichen äußeren und inneren Zwang zwischen mehreren Optionen selbstbestimmt wählen kann.",
+      "syn": "Eigenständigkeit, Autonomie"
+    },
+    {
+      "id": 36,
+      "name": "Freude",
+      "def": "Gemütszustand ausgelöst durch positive Emotionen, aufgrund von schönen Erfahrungen, Erlebnissen oder Erinnerungen. Positives Gefühl des Glücklichseins und der Fröhlichkeit.",
+      "syn": "Wohlgefallen, Seligkeit, Wonnegefühl"
+    },
+    {
+      "id": 37,
+      "name": "Freundlichkeit",
+      "def": "Geisteshaltung zu einer anderen Person, als ob diese potenziell ein(e) Freund(in) ist. Ausgedrückt durch authentisch zugeneigte Gesten und eine herzliche Sprache.",
+      "syn": "Warmherzigkeit, Zuwendung"
+    },
+    {
+      "id": 38,
+      "name": "Freundschaft",
+      "def": "Auf gegenseitiger Zuneigung beruhendes Verhältnis von Menschen zueinander, das sich durch Sympathie und Vertrauen auszeichnet.",
+      "syn": ""
+    },
+    {
+      "id": 39,
+      "name": "Frieden",
+      "def": "Zustand von Ruhe und Harmonie. Abwesenheit von negativen Störungen, Streitigkeiten, Beunruhigung, Krieg.",
+      "syn": ""
+    },
+    {
+      "id": 40,
+      "name": "Fürsorglichkeit",
+      "def": "Sich um andere sorgen und kümmern. Intention, sich selbst um die „Sorgen“ einer bestimmten Person oder Personengruppe zu kümmern.",
+      "syn": "Hege, Bemutterung, Hilfe"
+    },
+    {
+      "id": 41,
+      "name": "Geduld",
+      "def": "Ausdauer, im ruhigen, nachsichtigen und kontrollierten Warten oder leichten Ertragen eines Sachverhaltes.",
+      "syn": "Langmut, Nachsicht"
+    },
+    {
+      "id": 42,
+      "name": "Gelassenheit",
+      "def": "Fähigkeit, in heiklen Situationen ruhig und besonnen zu bleiben. Charaktereigenschaft der allgemeinen inneren Ruhe.",
+      "syn": "Gemütsruhe"
+    },
+    {
+      "id": 43,
+      "name": "Gemütlichkeit",
+      "def": "Das Vorhandensein der Attribute \"behaglich, warm, angenehm, bequem und komfortabel\", aber implizit auch \nsicher, beruhigend und entspannend\n.",
+      "syn": "Behaglichkeit, Heimeligkeit, angenehme Atmosphäre"
+    },
+    {
+      "id": 44,
+      "name": "Genügsamkeit",
+      "def": "Entschieden genügsames Wesen. Bewusst geringes Streben nach Ansprüchen, selbst wenn daraus ein Vorteil oder Gewinn resultieren würde. Bewusstsein für Wertschätzung von Dingen und das bewusste Nichtverlangen von besonders Wertvollem.",
+      "syn": "Bescheidenheit, Mäßigung, die Fähigkeit, Maß zu halten"
+    },
+    {
+      "id": 45,
+      "name": "Genuss",
+      "def": "Positive Sinnesempfindung, die mit körperlichem und/oder geistigem Wohlbehagen verbunden ist.",
+      "syn": ""
+    },
+    {
+      "id": 46,
+      "name": "Gerechtigkeit",
+      "def": "Prinzip, dass jedem Menschen sein persönliches Recht in gleicher Weise gewährt bzw. zugebilligt werden soll.",
+      "syn": "Unparteilichkeit, Unvoreingenommenheit, Vorurteilslosigkeit"
+    },
+    {
+      "id": 47,
+      "name": "Gesundheit",
+      "def": "Körperliche und geistige Unversehrtheit, bzw. Zustand des vollständigen körperlichen, geistigen und sozialen Wohlergehens.",
+      "syn": "Rüstigkeit, Fitness, gute Verfassung"
+    },
+    {
+      "id": 48,
+      "name": "Glaube",
+      "def": "gefühlsmäßige, nicht von Beweisen, Fakten o. Ä. bestimmte unbedingte Gewissheit, Überzeugung",
+      "syn": "Überzeugung"
+    },
+    {
+      "id": 49,
+      "name": "Glaubwürdigkeit",
+      "def": "Eigenschaft einer Person, aufgrund dessen diese als richtig oder wahr anerkannt werden kann. Basis ist das Vertrauen in die Redlichkeit, Aufrichtigkeit sowie Ehrlichkeit der Person.",
+      "syn": "Vertrauenswürdigkeit, vertrauenserweckend"
+    },
+    {
+      "id": 50,
+      "name": "Großzügigkeit",
+      "def": "Bereitschaft, zu teilen und etwas zu geben, das größer als das selbstverständliche Maß angesehen wird, ohne dafür eine Erkenntlichkeit zu verlangen.",
+      "syn": "Freigebigkeit, Gebefreudigkeit, Großmut, Spendierfreudigkeit"
+    },
+    {
+      "id": 51,
+      "name": "Güte",
+      "def": "Grundlegende Haltung, gegenüber anderen freundlich, hilfsbereit und nachsichtig zu sein.",
+      "syn": "Wohlwollen"
+    },
+    {
+      "id": 52,
+      "name": "Harmonie",
+      "def": "Übereinstimmende Vereinigung von unterschiedlichen Dingen, Sichtweisen oder Intentionen zu einer einzelnen ganzen Sache oder Sichtweise.",
+      "syn": "Einklang, Eintracht"
+    },
+    {
+      "id": 53,
+      "name": "Herzlichkeit",
+      "def": "Natürliches, entgegenkommendes, offenes und von innen heraus freundliches Verhalten gegenüber anderen.",
+      "syn": "Gefühlswärme"
+    },
+    {
+      "id": 54,
+      "name": "Hilfsbereitschaft",
+      "def": "Willentliche Bereitschaft, Hilfe zu leisten, ohne Gegenleistung zu erwarten.",
+      "syn": "Mildtätigkeit, Gefälligkeit"
+    },
+    {
+      "id": 55,
+      "name": "Hingabe",
+      "def": "Starkes, leidenschaftliches Interesse an jemandem oder etwas, das bis hin zur Selbstaufopferung gehen kann.",
+      "syn": ""
+    },
+    {
+      "id": 56,
+      "name": "Humor",
+      "def": "Gelassene Heiterkeit, die befähigt, eigene und fremde Schwächen (aber auch Stärken) oder schwierige Sachverhalte mit Frohsinn zu belächeln.",
+      "syn": "Frohsinn, Heiterkeit"
+    },
+    {
+      "id": 57,
+      "name": "Idealismus",
+      "def": "Geisteshaltung, die darauf ausgerichtet ist, eigene oder gesellschaftliche Ideale zu erreichen, auch unter Verzicht auf persönliche Vorteile. ",
+      "syn": "Moralisch, ethisch"
+    },
+    {
+      "id": 58,
+      "name": "Innovation",
+      "def": "Geplante, kontrollierte und optimierende Veränderung, welche eine Erneuerung und Weiterentwicklung von größeren Nutzen stiftenden Merkmalen realisiert und etabliert.",
+      "syn": "Reform, Neuerung"
+    },
+    {
+      "id": 59,
+      "name": "Inspiration",
+      "def": "Schöpferischer Einfall, Eingebung oder Gedanke, plötzliche Erkenntnis oder eine weiterführende Idee.",
+      "syn": "Eingebung, Geistesblitz"
+    },
+    {
+      "id": 60,
+      "name": "Integrität",
+      "def": "Die eigenen Maßstäbe, Wertvorstellungen und Überzeugungen nicht nur denken, sondern auch leben.",
+      "syn": ""
+    },
+    {
+      "id": 61,
+      "name": "Intelligenz",
+      "def": "Kognitive Leistungsfähigkeit",
+      "syn": "Denkfähigkeit, Gescheitheit, Aufnahmefähigkeit"
+    },
+    {
+      "id": 62,
+      "name": "Interesse",
+      "def": "Geistige Anteilnahme oder Aufmerksamkeit an einer Sache, einem Thema oder einem anderen Menschen.",
+      "syn": "Interessiertheit, Wissbegierde, Neugier"
+    },
+    {
+      "id": 63,
+      "name": "Intuition",
+      "def": "Auf seine innere Stimme (\"Bauchgefühl\") hören.",
+      "syn": "Eingebung, Bauchgefühl, Spürsinn, gefühltes Wissen, sechster Sinn, innere Stimme"
+    },
+    {
+      "id": 64,
+      "name": "Klarheit",
+      "def": "Fähigkeit zu vernünftigem, nüchternen Denken; oder: den anderen wissen lassen, worum es einem geht.",
+      "syn": ""
+    },
+    {
+      "id": 65,
+      "name": "Klugheit",
+      "def": "Scharf denkender und intelligenter Verstand. Erlernte oder intuitive Fähigkeit, situationsbedingt angemessen zu entscheiden und zu handeln.",
+      "syn": "Gescheitheit, Gelehrtheit, gesunder Menschenverstand"
+    },
+    {
+      "id": 66,
+      "name": "Ko-Kreation",
+      "def": "Gemeinschaftlicher Schöpfungsprozess mehrerer Personen oder Statusgruppen durch Zusammenführung von Positionen, Erfahrungen und Wissen der Beteiligten.",
+      "syn": "Soziales Lernen"
+    },
+    {
+      "id": 67,
+      "name": "Konservativismus",
+      "def": "Streben, traditionelle und bekannte Kenntnisse und entsprechende Rituale zu bewahren.",
+      "syn": "Rückwärtsgewandtheit"
+    },
+    {
+      "id": 68,
+      "name": "Kontrolle",
+      "def": "Steuern und Führen von Objekten und Subjekten. Beherrschung oder Beherrschen eines Objektes oder von Subjekten (z.B. Untergebenen).",
+      "syn": "Führung, Steuerung, Management, Kommando, Vorsitz"
+    },
+    {
+      "id": 69,
+      "name": "Kooperation",
+      "def": "zweckgerichtetes Zusammenwirken mehrerer Lebewesen, Personen oder Systeme mit anderen zur Erfüllung gemeinschaftlicher Ziele.",
+      "syn": "kooperativ"
+    },
+    {
+      "id": 70,
+      "name": "Kreativität",
+      "def": "Fähigkeit, komplex wahrzunehmen und dabei zu wirken, z.B. etwas zu erschaffen, erfinden, Probleme zuu lösen oder ergebnisorientiert zu denken oder handeln.",
+      "syn": "Schöpfergeist, Einfallsreichtum, Ideen reichtum"
+    },
+    {
+      "id": 71,
+      "name": "Lässigkeit",
+      "def": "Die Fähigkeit, sich frei zu machen vom Zwang der Anpassung",
+      "syn": "Locker, Entspanntheit"
+    },
+    {
+      "id": 72,
+      "name": "Langlebigkeit",
+      "def": "Lange leben oder ein dauerhaftes Vermächtnis hinterlassen",
+      "syn": ""
+    },
+    {
+      "id": 73,
+      "name": "Lebendigkeit",
+      "def": "Energie und Freude ausstrahlend",
+      "syn": "Vitalität, Lebhaftigkeit, Energie"
+    },
+    {
+      "id": 74,
+      "name": "Leichtigkeit",
+      "def": "Mühelosigkeit oder Ungezwungenheit und Unbekümmertheit",
+      "syn": "Unbeschwertheit, im Fluss sein, Problemlosigkeit"
+    },
+    {
+      "id": 75,
+      "name": "Leidenschaft",
+      "def": "Zustand extremer und stark ausgeprägter emotionaler Zuneigung gegenüber einer (inspirierenden) Sache oder einem Menschen.",
+      "syn": "Ekstase, Feuer(-eifer), Verzücktheit"
+    },
+    {
+      "id": 76,
+      "name": "Leistung",
+      "def": "unternommene Anstrengung und das erzielte Ergebnis",
+      "syn": ""
+    },
+    {
+      "id": 77,
+      "name": "Liebenswürdigkeit",
+      "def": "Eine besonders freundliche, höfliche und zuvorkommende Art. Sich so verhalten, dass man anderen die Möglichkeit gibt, einen zu lieben bzw. mögen.",
+      "syn": "Höflichkeit, Zuvorkommenheit"
+    },
+    {
+      "id": 78,
+      "name": "Loyalität",
+      "def": "Treues, unterstützendes Verhalten gegenüber höheren Instanzen und gegebenen Versprechen oder Vereinbarungen.",
+      "syn": "Ergebenheit, Vertragstreue"
+    },
+    {
+      "id": 79,
+      "name": "Mitgefühl",
+      "def": "Anteilnehmendes Fühlen mit der Situation einer anderen Person, kombiniert mit dem Wunsch, zu helfen.",
+      "syn": ""
+    },
+    {
+      "id": 80,
+      "name": "Modernität",
+      "def": "Gegenwärtig auf dem neuesten bzw. zweitgemäßen oder zeitlich korrekten Stand sein.",
+      "syn": "Aktualität, Zeitgemäß sein"
+    },
+    {
+      "id": 81,
+      "name": "Motivation",
+      "def": "Die Begründung und der Ansporn zu einer Tätigkeit oder dem Erreichen eines Ziels.",
+      "syn": "Mut machend, ermunternd"
+    },
+    {
+      "id": 82,
+      "name": "Mut",
+      "def": "Bereitschaft, sich gegen Widerstände und Gefahren einzusetzen, insbesondere für eine als lohnenswert oder richtig empfundene Sache.",
+      "syn": "Zivilcourage"
+    },
+    {
+      "id": 83,
+      "name": "Nachhaltigkeit",
+      "def": "Dauerhaft stabile Gesellschaften erreichen, indem ökologische, ökonomische und soziale Ziele nicht gegeneinander ausgespielt, sondern gleichrangig angestrebt werden. Enthält den Anspruch, dass diese Ziele für alle Länder der Welt (globale Gerechtigkeit) und für künftige Generationen (Generationengerechtigkeit) gelten.",
+      "syn": "Nachhaltige Entwicklung"
+    },
+    {
+      "id": 84,
+      "name": "Nächstenliebe",
+      "def": "Die bedingungslose Bereitschaft, für Mitmenschen mitfühlend da zu sein.",
+      "syn": "Menschlichkeit, Menschenliebe, Humanität"
+    },
+    {
+      "id": 85,
+      "name": "Neutralität",
+      "def": "Unparteiisches Verhalten, Nichteinmischung",
+      "syn": "Objektivität, Vorurteilslosigkeit, Unparteilichkeit, Überparteilichkeit"
+    },
+    {
+      "id": 86,
+      "name": "Offenheit",
+      "def": "Bewusste Empfangsbereitschaft für Kommunikation bzw. Erfahrungen. Bereitschaft, sich mit jemandem oder etwas unvoreingenommen auseinanderzusetzen.",
+      "syn": "Aufgeschlossenheit, Unvoreingenommenheit"
+    },
+    {
+      "id": 87,
+      "name": "Optimismus",
+      "def": "Einstellung mit grundlegend positiven Erwartungshaltungen.",
+      "syn": "Positive Erwartung, positive Lebenseinstellung"
+    },
+    {
+      "id": 88,
+      "name": "Ordnungssinn",
+      "def": "Ausgeprägte Affinität für ordnende Strukturen und ein strukturiertes, klares Umfeld.",
+      "syn": "Ordnungsliebe, Strukturiertheit, Klarheit"
+    },
+    {
+      "id": 89,
+      "name": "Perfektion",
+      "def": "Vollkommenheit; etwas, das nicht mehr verbessert werden kann",
+      "syn": "Makellosigkeit, Unfehlbarkeit"
+    },
+    {
+      "id": 90,
+      "name": "Pflichtgefühl",
+      "def": "Innere Bereitschaft und Wille, eine definierte Pflicht zu erfüllen.",
+      "syn": "Pflichtbewusstsein, Gewissenhaftigkeit"
+    },
+    {
+      "id": 91,
+      "name": "Phantasie",
+      "def": "Kreative Fähigkeit, sich aus Erfahrungen, Eindrücken und Wissensfragmenten heraus neue, bisher noch nicht erlebte Vorstellungen (z.B. Bilder, Szenarien oder Produkte) zu bilden.",
+      "syn": "Vorstellungskraft, Vorstellungsvermögen, Einfallsreichtum, Vorstellungsgabe"
+    },
+    {
+      "id": 92,
+      "name": "Potentialentfaltung",
+      "def": "Darauf ausgerichtet, das eigene Potential als Mensch voll zu entfalten; \"sein bestes Selbst\" anstrebend.",
+      "syn": ""
+    },
+    {
+      "id": 93,
+      "name": "Pragmatismus",
+      "def": "Auf Nützlichkeit ausgerichtetes unmittelbares Handeln (welches auf theoretisches Wissen verzichtet), um ohne Umschweife bestmögliche Ergebnisse zu erzielen.",
+      "syn": "Handlungsbezogen, machbarkeitsorientiert, ergebnisorientiert"
+    },
+    {
+      "id": 94,
+      "name": "Präzision",
+      "def": "Bestmöglich exakte Konformität und Übereinstimmung mit einem erwünschten Standard oder einer Norm.",
+      "syn": "Genauigkeit, Exaktheit, Korrektheit, Gründlichkeit, Reinheit"
+    },
+    {
+      "id": 95,
+      "name": "Pünktlichkeit",
+      "def": "Zu einem geplanten oder verabredeten Zeitpunkt vollumfänglich präsent sein.",
+      "syn": "Zeitgenauigkeit, fristgemäß, termingemäß"
+    },
+    {
+      "id": 96,
+      "name": "Realismus",
+      "def": "Der Sinn oder das Suchen nach der Wirklichkeit (Realität). Die Gegebenheiten des täglichen Lebens bevorzugt sachlich betrachten, mit dem Ziel die Wirklichkeit zu erkennen und sein Handeln darauf auszurichten.",
+      "syn": "Wirklichkeitssinn, Sachlichkeit, Objektivität"
+    },
+    {
+      "id": 97,
+      "name": "Reichtum",
+      "def": "großer Besitz an Vermögen bzw. wertvollen Dingen",
+      "syn": "Wohlstand"
+    },
+    {
+      "id": 98,
+      "name": "Respekt",
+      "def": "Achtung von anderen Menschen aus Gründen von Wertschätzung",
+      "syn": ""
+    },
+    {
+      "id": 99,
+      "name": "Rücksichtnahme",
+      "def": "Verständnis einer anderen Sache oder Person und deren Belangen gegenüberbringen und sich zu Herzen nehmen.",
+      "syn": ""
+    },
+    {
+      "id": 100,
+      "name": "Sanftmut",
+      "def": "Ruhige, friedliche und ausgeglichene Wesensart mit wohlwollender Gesinnung. Angenehmes, geduldiges und warmherziges Verhalten.",
+      "syn": "Gutmütigkeit, Milde, Zartheit, Entgegenkommen, Friedlichkeit"
+    },
+    {
+      "id": 101,
+      "name": "Seelenfrieden",
+      "def": "Hohe Form von Ausgeglichenheit, Ruhe und innerer Stabilität",
+      "syn": ""
+    },
+    {
+      "id": 102,
+      "name": "Selbstbestimmtheit",
+      "def": "In der Lage sein, eigenbestimmt und eigenverantwortlich zu handeln.",
+      "syn": "Entscheidungsfreiheit, Eigenverantwortung"
+    },
+    {
+      "id": 103,
+      "name": "Selbstdisziplin",
+      "def": "Das Beherrschen des eigenen Willens, der eigenen Gefühle und Neigungen, um etwas zu erreichen.",
+      "syn": "Selbstkontrolle, Selbstbeherrschung"
+    },
+    {
+      "id": 104,
+      "name": "Selbstvertrauen",
+      "def": "Vertrauen in die eigenen Kräfte und Fähigkeiten",
+      "syn": ""
+    },
+    {
+      "id": 105,
+      "name": "Selbstverwirklichung",
+      "def": "Entfaltung der eigenen Persönlichkeit durch Förderung und Entwicklung der in der eigenen Person angelegten Fähigkeiten",
+      "syn": ""
+    },
+    {
+      "id": 106,
+      "name": "Sensibilität",
+      "def": "Ausgeprägte Feinfühligkeit oder Empfindsamkeit gegenüber Menschen, Themen oder Ereignissen.",
+      "syn": "Feinfühligkeit"
+    },
+    {
+      "id": 107,
+      "name": "Seriösität",
+      "def": "Vertrauen erweckend, ernst zu nehmend",
+      "syn": "Ernsthaftigkeit, Vertrauenswürdigkeit"
+    },
+    {
+      "id": 108,
+      "name": "Sinnhaftigkeit",
+      "def": "Danach ausrichten, ob die Dinge, die man tut, tatsächlich sinnvoll bzw. sinnhaft sind.",
+      "syn": ""
+    },
+    {
+      "id": 109,
+      "name": "Sinnlichkeit",
+      "def": "Hingabe an das Erleben durch die Sinne",
+      "syn": ""
+    },
+    {
+      "id": 110,
+      "name": "Solidarität",
+      "def": "Bewusstsein über eine Zusammengehörigkeit mit der Gesinnung, gemeinsame Interessen, Ziele und Werte in Form einer damit verbundenen Gemeinschaft zu leben.",
+      "syn": "Verbundenheit, Zusammengehörigkeitsgefühl, Gemeinschaftssinn"
+    },
+    {
+      "id": 111,
+      "name": "Sorgfalt",
+      "def": "Beabsichtigte Genauigkeit und Behutsamkeit bei Tätigkeiten",
+      "syn": "Gewissenhaftigkeit, Gründlichkeit, Sorgsamkeit"
+    },
+    {
+      "id": 112,
+      "name": "Sparsamkeit",
+      "def": "Das beständige Zurücklegen von freien Mitteln. Bewusster Umgang mit der Menge der Ausgaben von Gütern oder Geldern.",
+      "syn": "Haushalten, Maßhaltung"
+    },
+    {
+      "id": 113,
+      "name": "Spaß",
+      "def": "Lustige und erfreuende Emotion, Handlung oder Äußerung",
+      "syn": "Witz, Jux, Lustigkeit, Vergnügtheit"
+    },
+    {
+      "id": 114,
+      "name": "Standfestigkeit",
+      "def": "Fähigkeit, eine vorgegebene Posititon, Eigenschaft oder Leistung über einen bestimmten Zeitraum beizubehalten.",
+      "syn": "Standhaftigkeit, Stabilität, Beständigkeit, Stehvermögen"
+    },
+    {
+      "id": 115,
+      "name": "Tapferkeit",
+      "def": "Fähigkeit, eine schwierige oder bedrohliche Situation ohne Furcht bewusst zu konfrontieren; in der Regel um etwas Übergeordnetes zu erreichen.",
+      "syn": "Zivilcourage"
+    },
+    {
+      "id": 116,
+      "name": "Teamgeist",
+      "def": "Zusammengehörigkeitsgefühl bzw. kameradschaftliches Verhalten innerhalb einer Gruppe von Personen, die eine gemeinsame Aufgabe haben.",
+      "syn": "Kameradschaft, Gruppenmentalität, Teamfähigkeit, Teamwork"
+    },
+    {
+      "id": 117,
+      "name": "Teilen",
+      "def": "Abgeben eines materiellen oder immateriellen Besitzes; Andere an etwas Anteil haben lassen; gemeinsames Nutzen einer Ressource.",
+      "syn": "Geben"
+    },
+    {
+      "id": 118,
+      "name": "Toleranz",
+      "def": "Das \"so-sein-lassen\" der Sichtweisen, Überzeugungen, Handlungen und Sitten von anderen.",
+      "syn": "Duldsamkeit, Annahme"
+    },
+    {
+      "id": 119,
+      "name": "Tradition",
+      "def": "Tradition",
+      "syn": "Überlieferung"
+    },
+    {
+      "id": 120,
+      "name": "Transparenz",
+      "def": "Willentliche Durchschaubarkeit von Sachverhalten oder Prozessen",
+      "syn": "Durchschaubarkeit"
+    },
+    {
+      "id": 121,
+      "name": "Treue",
+      "def": "Verbindliche und verlässliche Loyalität gegenüber einem anderen Menschen oder einer Gruppe",
+      "syn": ""
+    },
+    {
+      "id": 122,
+      "name": "Tüchtigkeit",
+      "def": "In einem Bereich bewandert bzw. befähigt sein, darin Aufgaben auszuführen.",
+      "syn": "Eignung, Fähigkeit, Brauchbarkeit"
+    },
+    {
+      "id": 123,
+      "name": "Unabhängigkeit",
+      "def": "Mit Selbstbestimmung frei agieren können.",
+      "syn": "Independenz, Souveränität, Autonomie"
+    },
+    {
+      "id": 124,
+      "name": "Unbestechlichkeit",
+      "def": "Sich nicht durch vorteilhafte Gegenleistungen zu nicht gestatteten oder unmoralischen Handlungen verführen lassen.",
+      "syn": ""
+    },
+    {
+      "id": 125,
+      "name": "Unkonventionell",
+      "def": "vom Konventionellen oder Gewöhnlichen abweichend",
+      "syn": "Ungewöhnlich, nonkonform, alternativ"
+    },
+    {
+      "id": 126,
+      "name": "Verantwortung",
+      "def": "Im Rahmen einer übernommenen Aufgabe oder mit einer bestimmten Stellung verbundenen Verpflichtung dafür sorgen, dass alles einen bestmöglichen Verlauf nimmt und für die Konsequenzen einzustehen.",
+      "syn": "Verantwortungsbewusstsein"
+    },
+    {
+      "id": 127,
+      "name": "Verbundenheit",
+      "def": "Verbundenheit",
+      "syn": "Eins sein"
+    },
+    {
+      "id": 128,
+      "name": "Vergebung",
+      "def": "Jemanden von etwas freisprechen; jemandem eine Handlung oder Unterlassung vergeben",
+      "syn": "Verzeihen, Vergeben, Nachsicht"
+    },
+    {
+      "id": 129,
+      "name": "Vertrauen",
+      "def": "Vorbehaltloser Glaube, dass man sich auf jemanden oder etwas in hohem Maße verlassen kann.",
+      "syn": "Zutrauen"
+    },
+    {
+      "id": 130,
+      "name": "Vielfalt",
+      "def": "Fülle von verschiedenen Arten, Formen o. Ä., in denen etwas Bestimmtes vorhanden ist, vorkommt, sich manifestiert",
+      "syn": ""
+    },
+    {
+      "id": 131,
+      "name": "Visionär",
+      "def": "In seiner Idee oder seiner Vorstellung der Zukunft voraus sein",
+      "syn": "Vorstellungskraft"
+    },
+    {
+      "id": 132,
+      "name": "(persönliches) Wachstum",
+      "def": "Sich selbst besser kennenlernen und verstehen, auf welche Weise man handelt und warum, mit dem Ziel von mehr Selbstbestimmtheit und Lebenszufriedenheit.",
+      "syn": ""
+    },
+    {
+      "id": 133,
+      "name": "Weisheit",
+      "def": "Auf Erfahrungen (z.B. tiefgreifende Erlebnisse, Fehler und deren Korrektur) basierendes und über einen längeren Zeitraum gesammeltes und sinnvoll gewichtetes essenzielles Wissen ",
+      "syn": "Lebenserfahrung"
+    },
+    {
+      "id": 134,
+      "name": "Weitsicht",
+      "def": "Vorausschauendes Denken und Handeln, unter Einschätzung und Berücksichtigung aller Optionen und Szenarien",
+      "syn": "Weitblick"
+    },
+    {
+      "id": 135,
+      "name": "Wissen",
+      "def": "Kenntnisse über Fakten, Theorien, Regeln etc.",
+      "syn": "Fachliche Kompetenz"
+    },
+    {
+      "id": 136,
+      "name": "Würde",
+      "def": "Das Bewusstsein für unantastbare Werte, Menschenrechte und die dafür erforderlichen Richtlinien. Bedingungslose Akzeptanz der inneren Wertvorstellungen eines Menschen und der Grundrechte zu deren Wahrung.",
+      "syn": "Selbstachtung"
+    },
+    {
+      "id": 137,
+      "name": "Zielstrebigkeit",
+      "def": "Eigenverantwortliches, beharrliches und konsequentes Handeln, welches auf das Erreichen von zuvor aufgestellten Zielen ausgerichtet ist.",
+      "syn": "Fokus, Entschlossenheit, Ambitioniertes Handeln"
+    },
+    {
+      "id": 138,
+      "name": "Zuverlässigkeit",
+      "def": "Sein Wort oder Versprechen verlässlich einhalten.",
+      "syn": "Verlässlichkeit"
+    },
+    {
+      "id": 139,
+      "name": "Zuversicht",
+      "def": "Vertrauen auf eine positive Entwicklung in der Zukunft, auf die Erfüllung bestimmter Wünsche und Hoffnungen.",
+      "syn": "Lebensmut, Gottvertrauen, Vertrauen in die Zukunft"
+    }
+  ]
+}
