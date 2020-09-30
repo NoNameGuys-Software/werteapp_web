@@ -1,3 +1,2 @@
-Potentielle Top 10 Kandidaten auswählen \n \n
 Du siehst nacheinander eine Liste von 140 möglichen Werten. Klicke im ersten Schritt alle an, von denen Du denkst, dass sie möglicherweise zu Deinen Top 10 der Werte gehören könnten. Es geht hierbei nicht um Erwartungen anderer, sondern darum, was Dir selbst wirklich am allerwichtigsten ist. Wonach möchtest Du [currentSelection] ausrichten? Wähle hier zunächst aus dem Bauch heraus, ohne lange nachzudenken. \n
 Du kannst so viele Begriffe auswählen, wie Du möchtest. Falls Werte fehlen, die Dir besonders wichtig sind, kannst Du selbst max. 3 Begriffe ergänzen.

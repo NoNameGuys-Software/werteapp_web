@@ -4,4 +4,4 @@ Im Folgenden geht es darum, aus 140 möglichen Werten die 10 zu identifizieren, 
 a)	die, die Dir insgesamt für Dein Leben am Wichtigsten sind
 b)	die, die Dir bei Deiner Arbeit am Wichtigsten sind
 c)	die, dir Dir in Deinen Beziehungen am Wichtigsten sind \n
-Ich empfehle Dir, zunächst mit a) zu starten. Du kannst später die Übung für die Bereiche Arbeit und/oder Beziehungen nochmal wiederholen. Wähle nun eine der drei Optionen aus.
+Es ist empfehlenswert, zunächst mit a) zu starten. Du kannst später die Übung für die Bereiche Arbeit und/oder Beziehungen nochmal wiederholen. Wähle nun eine der drei Optionen aus.
